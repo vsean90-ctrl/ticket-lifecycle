@@ -31,7 +31,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The ticket lifecycle begins when a user sends a support request from the osTicket help desk system. In this project, I developed and handled support tickets to simulate common IT help desk scenarios. Each ticket would contain information about a reported issue, giving the support team a way to categorize, prioritize, and track the support request through resolution.
 </p>
 <br />
 

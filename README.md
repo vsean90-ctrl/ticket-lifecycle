@@ -41,10 +41,15 @@ The ticket lifecycle begins when a user sends a support request from the osTicke
 <h2>Assignment and Communication</h2>
 </p>
 <p>
-Once the ticket was created, it was reviewed and assigned to an appropriate support department and agent. From osTicket, the ticket can be updated with its priority, department, status, and SLA plan. 
+Once the ticket was created, it was reviewed and assigned to an appropriate support department and agent. From osTicket, the ticket can be updated with its priority, department, status, and SLA plan. Throughout the process, communication between the support technician and user was documented within the ticket to keep a clear history of the issue.
 </p>
 <br />
-
+<h2>Working the Issue</h2>
+</p>
+<p>
+TEST
+</p>
+<br />
 <p>
 <img width="969" height="1319" alt="CC_Lab3_osTicket_Ticket_Resolving" src="https://github.com/user-attachments/assets/395f9090-b304-4b7c-bce2-7cbfa0694042" />
 

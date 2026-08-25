@@ -47,14 +47,14 @@ Once the ticket was created, it was reviewed and assigned to an appropriate supp
 <h2>Working the Issue</h2>
 </p>
 <p>
-TEST
+The assigned technician investigated the reported problem and performed the necessary troubleshooting steps. This involved analyzing the information provided in the ticket, identifying the potential cause of the issue, and documenting actions taken to resolve it. If necessary, the ticket could be escalated or reassigned to another support team.
 </p>
 <br />
 <p>
 <img width="969" height="1319" alt="CC_Lab3_osTicket_Ticket_Resolving" src="https://github.com/user-attachments/assets/395f9090-b304-4b7c-bce2-7cbfa0694042" />
-
+<h2>Resolution</h2>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once the issue was resolved, the technician documented the solution and updated the ticket status. The resolution information provides a record of the troubleshooting process and can be used as a reference for resolving similar issues in the future. The ticket was then closed after confirming that the issue had been addressed.
 </p>
 <br />

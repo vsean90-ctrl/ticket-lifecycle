@@ -34,13 +34,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 The ticket lifecycle begins when a user sends a support request from the osTicket help desk system. In this project, I developed and handled support tickets to simulate common IT help desk scenarios. Each ticket would contain information about a reported issue, giving the support team a way to categorize, prioritize, and track the support request through resolution.
 </p>
 <br />
-
 <p>
+  <img width="2559" height="1439" alt="CC_Lab3_osTicket_download" src="https://github.com/user-attachments/assets/70e76259-f616-4024-b08a-7d1204644e2b" />
+
 <img width="865" height="1044" alt="CC_Lab3_osTicket_Ticket_Making" src="https://github.com/user-attachments/assets/21f1e3c3-cf55-4fef-a7cb-79a5f5246e7a" />
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once the ticket was created, it was reviewed and assigned to an appropriate support department and agent. From osTicket, the ticket can be updated with its priority, department, status, and SLA plan. 
 </p>
 <br />
 

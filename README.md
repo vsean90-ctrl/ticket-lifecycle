@@ -19,7 +19,7 @@ From this project, is hands-on experience with common help desk workflows, such 
 
 <h2>Ticket Lifecycle Stages</h2>
 
-- Intake
+- Creation and Intake
 - Assignment and Communication
 - Working the Issue
 - Resolution

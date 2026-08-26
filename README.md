@@ -30,7 +30,7 @@ From this project, is hands-on experience with common help desk workflows, such 
 
 </p>
 <p>
-The ticket lifecycle begins when a user sends a support request from the osTicket help desk system. In this project, I developed and handled support tickets to simulate common IT help desk scenarios. Each ticket would contain information about a reported issue, giving the support team a way to categorize, prioritize, and track the support request through resolution.
+The ticket lifecycle begins when a user creates and sends a support request from the osTicket help desk system. Tickets that are created have information about their reported issues, thus allowing departments and support agents to categorize, prioritize, and track the ticket through resolution.
 </p>
 <br />
 <p>

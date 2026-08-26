@@ -4,7 +4,7 @@
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
 
-This project is to demonstrate the lifecycle of an IT support ticket utilizing osTicket. OsTicket is free open-source help desk ticketing system where we can simulate how a support request moves through the help desk process. Within the process, starts with the ticket creation, ticket intake and assignment, troubleshooting, communication, and resolution.
+This project is to demonstrate the lifecycle of an IT support ticket utilizing osTicket. OsTicket is a free open-source help desk ticketing system where we can simulate how a support request moves through the help desk process. Within the process, starts with the ticket creation, ticket intake and assignment, troubleshooting, communication, and resolution.
 Out of this project, is a hands-on experience with common help desk workflows, such as making a ticket, modifying ticket information, documentation, and resolving reported issues.
 
 <h2>Environments and Technologies Used</h2>
@@ -40,14 +40,14 @@ The ticket lifecycle begins when a user creates and sends a support request from
 <h2>Assignment and Communication</h2>
 </p>
 <p>
-For our example ticket, underneath the name Ken, create a ticket that is reviewed and assigned to an appropriate department and support agent. With osTicket, agents can modify a request's priority, department, status, and SLA plan. Communication between support agents is documented and provides a clear history of the issue.
+For our example ticket, underneath the name Ken, create a ticket that is reviewed and assigned to an appropriate department and support agent. With osTicket, agents can modify a request's priority, department, status, and SLA plan. Communication between support agents is documented, providing a clear history of the issue.
 
 </p>
 <br />
 <h2>Working the Issue</h2>
 </p>
 <p>
-The assigned technician investigated the reported problem and performed the necessary troubleshooting steps. This involved analyzing the information provided in the ticket, identifying the potential cause of the issue, and documenting actions taken to resolve it. If necessary, the ticket could be escalated or reassigned to another support team.
+Support technician John enacts an investigation on the support request and performs the necessary troubleshooting steps. Included in the troubleshooting process are analyzing the information on the ticket, determining the possible cause of the issue, and documenting actions taken to resolve it.
 </p>
 <br />
 <p>
@@ -55,6 +55,6 @@ The assigned technician investigated the reported problem and performed the nece
 <h2>Resolution</h2>
 </p>
 <p>
-Once the issue was resolved, the technician documented the solution and updated the ticket status. The resolution information provides a record of the troubleshooting process and can be used as a reference for resolving similar issues in the future. The ticket was then closed after confirming that the issue had been addressed.
+When the ticket is resolved, documentation of the solution is created, and the ticket status can now be updated to closed or resolved. Having documentation on the solution creates a reference for resolving similar support requests in the future. The ticket was then closed after confirmation that the issue has been resolved.
 </p>
 <br />

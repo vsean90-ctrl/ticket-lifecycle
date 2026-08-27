@@ -9,6 +9,7 @@ Out of this project, is a hands-on experience with common help desk workflows, s
 
 <h2>Environments and Technologies Used</h2>
 
+- osTicket
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)

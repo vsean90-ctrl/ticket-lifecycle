@@ -41,14 +41,14 @@ The ticket lifecycle begins when a user creates and sends a support request from
 <h2>Assignment and Communication</h2>
 </p>
 <p>
-For this example ticket, underneath the name Ken, creates a ticket that is reviewed and assigned to an appropriate department and support agent. With osTicket, agents can modify a request's priority, department, status, and SLA plan. Communication between support agents is documented, providing a clear history of the issue.
+For this example, a support ticket was created for a user named Ken. The ticket is reviewed and assigned to an appropriate department and support agent. With osTicket, agents can modify a request's priority, department, status, and SLA plan. Communication between support agents is documented, providing a clear history of the issue.
 
 </p>
 <br />
 <h2>Working the Issue</h2>
 </p>
 <p>
-Support technician John investigated the support request and performs the necessary troubleshooting steps. Included in the troubleshooting process are analyzing the information on the ticket, determining the possible cause of the issue, and documenting actions taken to resolve it.
+Support technician John investigated the support request and performed the necessary troubleshooting steps. Included in the troubleshooting process are analyzing the information on the ticket, determining the possible cause of the issue, and documenting actions taken to resolve it.
 </p>
 <br />
 <p>
